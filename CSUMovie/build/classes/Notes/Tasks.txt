@@ -1,0 +1,13 @@
+Tasks
+1. Set width of textboxes.
+2. Refactor menus to Menu Manager.
+3. Check for invalid file locations when getting all.
+
+
+
+Completed Tasks
+1. Generate id based on previous id in text file.
+2. Pass in file path.
+3. Status message on user interface.
+4. Prevent saving when values are missing.
+

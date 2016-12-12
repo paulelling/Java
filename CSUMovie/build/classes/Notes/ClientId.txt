@@ -1,0 +1,5 @@
+Get next client id
+1. Open clients.txt file.
+2. Read each line.
+3. Get id on last line.
+

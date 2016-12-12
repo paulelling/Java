@@ -1,0 +1,5 @@
+movie_id; movie_title; rented
+1; The Matrix; 0
+2; Star Wars; 0
+3; Kingpin; 0
+4; The Godfather; 0

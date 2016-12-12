@@ -1,0 +1,1 @@
+rental_id; client_id; movie_id; date_out; date_in
