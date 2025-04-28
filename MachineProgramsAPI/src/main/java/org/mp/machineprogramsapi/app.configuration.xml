@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<app>
+    <database>
+        <connection_string>jdbc:sqlserver://8934LF2KDRFEU34\MSSQLSERVER01;databaseName=MPDB;user=sa;password=1Quantum23;encrypt=true;trustServerCertificate=true</connection_string>
+    </database>
+    <client>
+        <url>http://localhost:3000</url>
+    </client>
+    <log>
+        <file>D:\GitHub\paulelling\Java\MachineProgramsAPI\src\main\java\org\mp\machineprogramsapi\log.txt</file>
+    </log>
+</app>
