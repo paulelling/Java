@@ -1,1 +1,2 @@
 No suitable driver found for jdbc:sqlserver://8934LF2KDRFEU34\MSSQLSERVER01;databaseName=MPDB;user=sa;password=1Quantum23;encrypt=true;trustServerCertificate=true
+No suitable driver found for jdbc:sqlserver://8934LF2KDRFEU34\MSSQLSERVER01;databaseName=MPDB;user=sa;password=1Quantum23;encrypt=true;trustServerCertificate=true
